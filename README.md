@@ -17,3 +17,7 @@ Use the command cell.kill() to kill a certain cell and change its state from liv
 
 i.e.
 liver.cells[1][1].kill() << this will kill the cell in the second row and second column.
+
+## Copyright
+
+© 2026 Mohammad Almeqdadi. All rights reserved.
